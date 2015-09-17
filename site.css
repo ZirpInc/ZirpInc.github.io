@@ -13,11 +13,11 @@ body {
     background-color: #330033;
     border-radius: 0 0 5px 5px;
 }
-#main2 {font-size: 14}
+#main2 {font-size: 14;}
 h1 {
     font-family: Georgia, serif;
     border-bottom: 3px solid #660066;
-    color: white;
+    color: grey;
     font-size: 30px;
 }
 h2{
@@ -60,7 +60,7 @@ ul#menu li a {
     background-color: #ffffff;
     padding: 10px 20px;
     text-decoration: none;
-    color: #696969;
+    color: black;
     border-radius: 4px 4px 0 0;
 }
 
