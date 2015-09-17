@@ -13,13 +13,19 @@ body {
     background-color: #330033;
     border-radius: 0 0 5px 5px;
 }
-
+#main2 {font-size: 14}
 h1 {
     font-family: Georgia, serif;
     border-bottom: 3px solid #660066;
-    color: #FFFFFF;
+    color: white;
     font-size: 30px;
 }
+h2{
+	color: white;
+}
+
+
+
 table {
     width:100%;
 }
