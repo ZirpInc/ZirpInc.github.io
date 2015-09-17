@@ -6,6 +6,12 @@ body {
     padding: 3px;
 }
 
+p{
+	color: white
+}
+
+
+
 #main {
     padding: 5px;
     padding-left:  15px;
