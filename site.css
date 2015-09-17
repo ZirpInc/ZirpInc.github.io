@@ -2,15 +2,9 @@ body {
     font-family: "Trebuchet MS", Verdana, sans-serif;
     font-size: 18px;
     background-color: #191919; 
-    color: ##FFFFFF;
+    color: #FFFFFF;
     padding: 3px;
 }
-
-p{
-	color: white;
-}
-
-
 
 #main {
     padding: 5px;
@@ -23,7 +17,7 @@ p{
 h1 {
     font-family: Georgia, serif;
     border-bottom: 3px solid #660066;
-    color: ##FFFFFF;
+    color: #FFFFFF;
     font-size: 30px;
 }
 table {
@@ -66,5 +60,5 @@ ul#menu li a {
 
 ul#menu li a:hover {
     color: white;
-    background-color: black;
+    background-color: purple;
 }
