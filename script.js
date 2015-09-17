@@ -7,4 +7,5 @@ document.getElementById("nav01").innerHTML =
 "<li><a href='about.html'>About Me</a></li>" +
 "<li><a href='games.html'>Games</a></li>" +
 "<li><a href='contact.html'>Contact</a></li>" +
+"<li><a href='YouTube.com'>Emergency Leave Site Button</a></li>" +
 "</ul>";
