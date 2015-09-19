@@ -13,6 +13,7 @@ body {
     background-color: #330033;
     border-radius: 0 0 5px 5px;
 }
+div {font-size: 14; color: white;}
 h1 {
     font-family: Georgia, serif;
     border-bottom: 3px solid #660066;
